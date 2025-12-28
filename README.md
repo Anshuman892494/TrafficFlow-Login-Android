@@ -1,6 +1,9 @@
 # TrafficFlow - Android App
 TrafficFlow is an Android application developed using Kotlin and Jetpack Compose, designed as a smart traffic management login interface.
 
+## Screenshot
+https://github.com/Anshuman892494/TrafficFlow-Login-Android/blob/main/ScreenShot.png?raw=true
+
 ## Overview
 Android traffic management app with Jetpack Compose for urban congestion.
 
